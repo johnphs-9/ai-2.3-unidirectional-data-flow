@@ -1,0 +1,7 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "npm run build": true,
+        "npm run lint": true,
+        "npm --prefix /Users/johnphs/Documents/code/NTU-AIE/ai-2.3-unidirectional-data-flow": true
+    }
+}
